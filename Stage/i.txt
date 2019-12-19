@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 i1 
+=======
+>>>>>>> feature/feature6
 test
